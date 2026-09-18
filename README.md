@@ -22,13 +22,13 @@ I enjoy designing and building systems with a focus on:
 
 ### 📌 Featured Projects
 
-**Shopcity** — Multivendor e-commerce platform
+**Shopcity**: Multivendor e-commerce platform
 
-**Jobspot** — Jobs discovery platform
+**Jobspot**: Jobs discovery platform
 
-**Custom PHP Framework** — Lightweight PHP framework built from the ground up
+**Custom PHP Framework**: Lightweight PHP framework built from the ground up
 
-**Portfolio** — Personal developer portfolio
+**Portfolio**: Personal developer portfolio
 
 ### 📫 Connect
 
