@@ -5,7 +5,7 @@ I'm a backend-focused web developer building reliable and practical web applicat
 ### 🛠️ Technologies
 
 * **Backend:** PHP, Laravel
-* **Frontend:** HTML5, CSS3, JavaScript, Bootstrap
+* **Frontend:** HTML5, CSS3, Blade, JavaScript, Bootstrap
 * **Database:** MySQL, MariaDB, InnoDB, SQL
 * **Infrastructure:** Docker, Redis
 * **Tools:** Git, GitHub, Docker Hub
